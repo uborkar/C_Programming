@@ -5,8 +5,8 @@ simple coding practice.
 ## Description
 C programming is a powerful and versatile programming language that serves as the foundation for many modern programming languages. Here’s an overview of its key features, uses, and some important concepts:
 
-Overview of C Programming
-History:
+# Overview of C Programming
+*History*:
 
 Developed in the early 1970s by Dennis Ritchie at Bell Labs.
 Originally created for system programming and developing the UNIX operating system.
@@ -55,4 +55,4 @@ C requires explicit memory management, with functions like malloc, calloc, and f
 ## Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/uborkar/repo.git
