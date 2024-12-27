@@ -1,6 +1,5 @@
+
 # C_Programming
-simple coding practice.
-# Project Name
 
 ## Description
 C programming is a powerful and versatile programming language that serves as the foundation for many modern programming languages. Here’s an overview of its key features, uses, and some important concepts:
