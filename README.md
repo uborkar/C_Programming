@@ -44,13 +44,14 @@ C has powerful pointer support, allowing direct manipulation of memory addresses
 Memory Management:
 
 C requires explicit memory management, with functions like malloc, calloc, and free for dynamic memory allocation.
-
+---
 ## Data Structure Using C:
 # What is Data Structure?
 A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 
 A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures. 
-
+![Classifications of Data Structures](https://github.com/uborkar/C_Programming/commit/62af808f77335586ccae40ebba975cf41cd9dd66#diff-3a3ad89540549a200516a41826724f66c779861b32e5a234c5eab2127c492e84)
+---
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
