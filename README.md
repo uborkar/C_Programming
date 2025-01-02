@@ -62,6 +62,11 @@ Example: Queue, Stack, etc.
 - Non-Linear Data Structure: Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. 
 Examples: Trees and Graphs
 
+1. Array:
+Array is a linear data structure that stores a collection of elements of the same data type. Elements are allocated contiguous memory, allowing for constant-time access. Each element has a unique index number.
+2. Matrix/Grid:
+Matrix is a two-dimensional array of elements, arranged in rows and columns. It is represented as a rectangular grid, with each element at the intersection of a row and column.
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
