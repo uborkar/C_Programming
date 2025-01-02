@@ -76,7 +76,14 @@ Queue is a linear data structure that follows the First In, First Out (FIFO) pri
 Linked list is a linear data structure that stores data in nodes, which are connected by pointers. Unlike arrays, nodes of linked lists are not stored in contiguous memory locations and can only be accessed sequentially, starting from the head of list.
 7. Hash
 Hashing is a technique that generates a fixed-size output (hash value) from an input of variable size using mathematical formulas called hash functions. Hashing is commonly used in data structures for efficient searching, insertion and deletion and plays a key role in software applications like secure data retrieval, password storage, cryptography, digital signatures, etc.
-
+8. Tree
+Tree is a non-linear, hierarchical data structure consisting of nodes connected by edges, with a top node called the root and nodes having child nodes. It is widely used in file systems, databases, decision-making algorithms, etc.
+9. Binary Tree
+Binary Tree is a non-linear and hierarchical data structure where each node has at most two children referred to as the left child and the right child.
+10. Binary Search Tree
+Binary Search Tree is a type of binary tree in which each node's left subtree contains only values smaller than the node, and each node's right subtree contains only values greater than the node. This property applies recursively, meaning that for every node, its left and right subtrees must also satisfy the conditions of a valid Binary Search Tree.
+11. Heap
+Heap is a complete binary tree data structure that satisfies the heap property. Heaps are usually used to implement priority queues, where the smallest or largest element is always at the root of the tree.
 
 
 ## Table of Contents
