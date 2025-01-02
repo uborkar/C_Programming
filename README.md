@@ -72,6 +72,10 @@ String is a sequence of characters, typically used to represent text. It is cons
 Stack is a linear data structure that follows the Last In, First Out (LIFO) principle. Stacks play an important role in managing function calls, memory, and are widely used in algorithms, web development, and systems like compilers and browsers.
 5. Queue
 Queue is a linear data structure that follows the First In, First Out (FIFO) principle. Queues play an important role in managing tasks or data in order, scheduling and message handling systems.
+6. Linked List
+Linked list is a linear data structure that stores data in nodes, which are connected by pointers. Unlike arrays, nodes of linked lists are not stored in contiguous memory locations and can only be accessed sequentially, starting from the head of list.
+7. Hash
+Hashing is a technique that generates a fixed-size output (hash value) from an input of variable size using mathematical formulas called hash functions. Hashing is commonly used in data structures for efficient searching, insertion and deletion and plays a key role in software applications like secure data retrieval, password storage, cryptography, digital signatures, etc.
 
 
 
